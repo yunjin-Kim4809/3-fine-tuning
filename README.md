@@ -1,4 +1,4 @@
-### 3-finetuning
+# 3-finetuning
 ## fine-tuning 모델 학습 실습과 과제 제출을 위한 Repository입니다 
 
 ### 일반 fine-tuning과 lora 모델 활용 학습의 성능 차이 비교
